@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoPTD", "AutoPTD\AutoPTD.csproj", "{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Debug|x64.ActiveCfg = Debug|x64
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Debug|x64.Build.0 = Debug|x64
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Debug|x86.ActiveCfg = Debug|x86
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Debug|x86.Build.0 = Debug|x86
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Release|x64.ActiveCfg = Release|x64
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Release|x64.Build.0 = Release|x64
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Release|x86.ActiveCfg = Release|x86
+		{CA6FD6C1-D325-4715-9459-7835B2E2B2E9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2AAADEC-9C06-470E-8C0B-0E10F36CF099}
+	EndGlobalSection
+EndGlobal

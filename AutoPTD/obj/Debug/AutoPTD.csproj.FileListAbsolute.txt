@@ -1,0 +1,17 @@
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\obj\Debug\AutoPTD.csprojAssemblyReference.cache
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\obj\Debug\AutoPTD.Form1.resources
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\obj\Debug\AutoPTD.Properties.Resources.resources
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\obj\Debug\AutoPTD.csproj.GenerateResource.cache
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\obj\Debug\AutoPTD.csproj.CoreCompileInputs.cache
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\bin\Debug\AutoPTD.exe.config
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\bin\Debug\AutoPTD.exe
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\bin\Debug\AutoPTD.pdb
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\bin\Debug\Spire.Doc.dll
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\obj\Debug\AutoPTD.csproj.CopyComplete
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\obj\Debug\AutoPTD.exe
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\obj\Debug\AutoPTD.pdb
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\bin\Debug\Spire.Common.dll
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\bin\Debug\Spire.License.dll
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\bin\Debug\Spire.Pdf.dll
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\bin\Debug\Spire.XLS.dll
+E:\c#workspace\Code Management\AutoPTD\AutoPTD\bin\Debug\Microsoft.mshtml.dll
